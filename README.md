@@ -12,6 +12,7 @@ In this project, the following activities were carried out:
 - Data transformation where necessary
 - Data Interpretation
 - Data Visualization
+- Model Construction
 - Post data analysis
 - Conclusion
 - Recommendation
