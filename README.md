@@ -16,3 +16,5 @@ In this project, the following activities were carried out:
 - Conclusion
 - Recommendation
 - Next steps
+  
+Language used: Python Programming Language
